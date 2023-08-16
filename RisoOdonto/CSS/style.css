@@ -164,7 +164,7 @@ body {
 
 
 
-/*  */
+/* #Sobre-nos */
 
 .sobre-nos-container{
   position: relative;
@@ -196,10 +196,10 @@ body {
   border-radius: 2rem;
 }
 
-/*  */
+/* endregion */
 
 
-/*  */
+/* #contato */
 .contato-container{
   position: relative;
   top: -3rem;
@@ -224,7 +224,7 @@ body {
   color: blueviolet;
 }
 
-/*  */
+/* #footer */
 
 .container-footer{
   position: relative;
@@ -267,10 +267,10 @@ body {
 .whatsapp-link i {
   margin-top: 14px;
 }
+/* endregion  */
 
 
 
-/* Para telas menores */
 @media (max-width: 768px) {
   /* #home */
   .home-container {
